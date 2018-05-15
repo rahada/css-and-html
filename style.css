@@ -1,0 +1,432 @@
+body{
+    margin:0px;
+}
+
+.container{
+    display:inline-block;
+}
+
+/********************** start of div 1**************************/
+/*first orange image class*/
+
+.top{
+    width:100%;
+    
+}
+
+/*class in div of the text (h1, span, button)*/
+.textcenter{
+    color:white;
+    position:absolute;
+    top:300px;
+    left: 354px;
+    text-align: center;
+    width:38%;
+    
+}
+
+/*staek home style*/
+.textcenter h1{
+    font-size: 94px;
+    line-height: 3px;
+}
+
+/*orange opacity on the image*/
+.opacity{
+    background-color:rgba(237, 100, 13, 0.5);
+    position:absolute;
+    top:0px;
+    width:100%;
+    height:899px;
+}
+
+/*button dicover now style*/
+.butwhite{
+    border:2px solid white;
+    background:transparent;
+    color:white;
+    width: 140px;
+    height: 40px;
+}
+/********************** end of div 1**************************/
+
+/*style of the logo and the navigation bar with float*/
+.nav{
+    padding:0px 70px;
+}
+
+.link ul li{
+    float:left;
+    padding:0px 10px;
+    display:inline-block;
+    position:relative;
+    top: -45px;
+    left: 690px;
+}
+/***********************end of div navigation*******************/
+
+/*style of middle title why choose us*/
+.color{
+    background-color: #f0f0f0;
+    height:780px;
+    position: relative;
+}
+
+.title{
+    text-align: center;
+    padding:128px 0px;
+}
+
+.title span{
+    font-size: 50px;
+}
+
+.title h3{
+    color:#616161;
+    font-size: 16px;
+}
+/* END style of middle title why choose us*/
+
+.why{
+    background-color: white;
+    padding: 48px 59px;
+    text-align: center;
+    width:17%;
+    float:left;
+    margin:0px 46px;
+    height: 198px;
+}
+
+.imgblack{
+    width:81px;
+    height:81px;
+    position:absolute;   
+    top: 326px;
+    margin: 0px -44px;
+}
+
+
+.text{
+    color:#616161;
+}
+
+/*****************************start of OUR STORY *************************/
+/*main div of left center right*/
+.slide{
+    width:80%;
+    float: left;
+    color:grey;
+}
+
+/*left side style*/
+.float{
+    width:18%;
+    float:left;
+    margin: 0px 65px;
+}
+
+.leftimg{
+    width: 280px;
+}
+
+/*center style*/
+.center{
+    width:30%;
+}
+
+.centerimg{
+    width: 490px;  
+}
+
+.fine{
+    padding: 0px 220px;
+    width: 100%;
+}
+.fine h3{
+    color:black;
+}
+.center{
+    width:400px;
+}
+
+/*****************************start video style*************************/
+.video{
+    position:relative;
+    top:50px;
+}
+
+.videoimg{
+    width:100%;
+    height:400px;   
+}
+
+.transparent{
+    position:absolute;
+    background: rgba(35, 29, 29, 0.71);
+    top: 473px;
+    width: 100%;
+    height: 402px;
+}
+
+.trans{
+    width:50%;
+    text-align:center;
+    padding:50px 335px;
+}
+.trans h1{
+    color:white;
+    font-size: 60px;   
+}
+
+.trans span{
+    color:grey;
+}
+
+.trans img{
+    width:100px;
+    height:100px;
+}
+/*****************************food menu style*************************/
+.menu{
+    margin: auto;
+    width: 90%;
+    color:grey;
+}
+
+.leftmenu{
+    width: 48%;
+    font-size: 0;
+    float:right;
+}
+
+.leftmenu span{
+    font-size:15px;   
+}
+
+.rightmenu{
+    width: 48%;
+    font-size: 0;
+}
+
+.rightmenu span{
+    font-size: 15px;
+}
+.sizeimg{
+    width:280px;
+    height:200px;
+}
+
+.food-data{
+    display: inline-block;
+    width: 50%;
+    text-align: justify;
+    font-size: 16px;
+    /* display: table-cell; */
+    vertical-align: top;
+}
+
+.food-img{
+    display: inline-block;
+    width: 50%;
+    position: relative;
+}
+
+.food-box{
+    margin-bottom: 10px
+}
+
+
+/*****************************chefs  style*************************/
+.ourchef{
+    width:70%;
+    text-align: center;
+    padding: 0px 200px;
+    color:grey;
+}
+.chefimg{
+    width:200px;
+    height:250px;
+    
+}
+.chefname{
+    position:relative;
+    background-color: white;
+    bottom: 94px;
+}
+
+.img-bg ,.red{
+    display: inline-block;
+}
+.red{
+    background-color: #bd1b1b;
+    width:200px;
+    height:250px;
+    float:right;
+    position:relative;
+    right: 62px;
+}
+
+.red button{
+    margin: 80px 0px;
+}
+
+.red span{
+    position:absolute;
+    top: 75px;
+    text-align: center;
+    left: 1px;
+    color:white;
+}
+
+.plusimg{
+    width: 58px;
+    height: 56px;
+    padding: 16px 0px;
+}
+
+.text1{
+    width: 65%;
+    text-align: center;
+    margin: 0px 238px;
+    color: grey;
+    
+}
+.text2{
+    width:45%;
+    display:inline-block;
+}
+.text2 h1{
+    color:black;
+}
+.text3{
+    width:45%;
+    float:right;
+}
+.text3 h1{
+    color:black;
+}
+.color1{
+    background-color: #f0f0f0;
+    height:1000px;
+    position: relative;
+}
+
+/*****************************food gallery style*************************/
+.nav2{
+    width:50%;
+    margin: 93px 319px;
+}
+.nav2 ul li{
+    float: left;
+    padding: 20px 30px;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+}
+.gallery{
+    width:90%;
+    margin:0px 100px; 
+    color:grey;
+}
+
+.gallsize{
+    width: 326px;
+    height: 235px;
+}
+
+.gall{
+    width:30%;
+    display: inline-block;
+}
+
+.gall p{
+    text-align: center;
+}
+/*****************************contact style*************************/
+.contact{
+    position:relative;
+    top:105px;
+}
+
+.contactimg{
+    width:100%;
+    height:600px;
+    padding: 100px 0px;
+    position: relative;
+}
+
+.opacity1{
+    position:absolute;
+    background:rgba(86, 74, 74, 0.7);
+    width:100%;
+    height: 480px;
+    bottom:104px;
+    text-align: center;
+    padding: 60px 0px;
+}
+
+input{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid white;
+}
+
+.opacity1 span{
+    color:white;
+    font-size:40px;
+}
+
+.opacity1 h3{
+    color:white;
+    font-size:20px;
+}
+
+ .formbtm{
+  border-radius: 5px;
+  display: block;
+  background: white;
+  width: 150px;
+  height: 30px;
+  padding: 7px 283px;
+  margin: 27px auto;
+  color: #ae1212;
+  font-size: 19px;
+}
+
+/*****************************footer style*************************/
+.footer{
+    background-color: #2a2727;
+    
+    width: 100%;
+}
+.footerfloat{
+    width:219px;
+    float:left;
+    padding: 20px 100px;
+    line-height: 30px;
+}
+
+.footerfloat h2{
+    color:white;
+    width: 233px;
+}
+
+.footerfloat h4{
+    color:white;
+}
+
+.footerfloat span{
+    color:grey
+}
+
+.clear{
+    clear:both
+}
+
+/*****************************copy right style*************************/
+.copy {
+    padding:0px 200px;
+}
